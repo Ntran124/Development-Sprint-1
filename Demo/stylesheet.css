@@ -1,0 +1,76 @@
+.body{
+	margin: auto;
+
+}
+#headings1 {
+	background-size: cover;
+
+}
+.backGroundPurple {
+	background-color: #200146;
+}
+
+.backGroundWhite {
+	background-color: #ffffff;
+}
+
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 20px 40px;
+	border-radius: 5px;
+	width: 300px;
+
+}
+.headings {
+	font-size: 4vw;
+	color: #ffffff;
+	text-align: center;
+	background-color: #200146;
+}
+.subHeadings1 {
+	font-size: 3vw;
+	color: #455c95;
+	text-align: center;
+}
+.subHeadings2 {
+	font-size: 2vw;
+	color: #200146;
+
+}
+
+.bodyCenter {
+	text-align: left;
+	color: black;
+}
+p {
+	font-size: 1vw;
+	font-family: Open sans, Century gothic;
+}
+
+.buttons {
+	text-allgn: center;
+	background-color: #5495ff;
+	margin-left: 120px;
+}
+
+.buttons:hover {
+	background-color: #2678ff;
+}
+
+.footer {
+	margin-top: 80px;
+	padding: 1.2em 0;
+	background: #200146;
+	font-family: Century gothic;
+	color: white;
+	text-align: center;
+	font-size: 1vw;
+
+}
+
+/* My own css */
+
+.resize1 {
+	width: 300px;
+	height: auto;
+}
