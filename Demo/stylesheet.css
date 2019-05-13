@@ -14,11 +14,31 @@
 	background-color: #ffffff;
 }
 
-.card {
+.card3 {
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 	padding: 20px 40px;
 	border-radius: 5px;
-	width: 300px;
+	width: 350px;
+	margin-top: 40px;
+	margin-right: 10px;
+	margin-bottom: 40px;
+	display: inline-block;
+	
+	
+
+}
+.card2 {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 20px 40px;
+	border-radius: 5px;
+	width: 350px;
+	margin-top: 40px;
+	margin-right: 40px;
+	margin-left: 130px;
+	margin-bottom: 40px;
+	display: inline-block;
+	
+	
 
 }
 .headings {
