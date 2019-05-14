@@ -23,8 +23,8 @@
 	margin-right: 10px;
 	margin-bottom: 40px;
 	display: inline-block;
-	
-	
+
+
 
 }
 .card2 {
@@ -37,23 +37,22 @@
 	margin-left: 130px;
 	margin-bottom: 40px;
 	display: inline-block;
-	
-	
+
+
 
 }
 .headings {
-	font-size: 4vw;
-	color: #ffffff;
+	font-size: 1.2vw;
+	color: #455c95;
 	text-align: center;
-	background-color: #200146;
 }
 .subHeadings1 {
-	font-size: 3vw;
+	font-size: 2vw;
 	color: #455c95;
 	text-align: center;
 }
 .subHeadings2 {
-	font-size: 2vw;
+	font-size: 1.7vw;
 	color: #200146;
 
 }
