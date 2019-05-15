@@ -8,46 +8,44 @@
 }
 .backGroundPurple {
 	background-color: #200146;
+
 }
 
 .backGroundWhite {
 	background-color: #ffffff;
+
 }
 
 .card3 {
 	display: block;
-	flex: 0;
 	margin: 15px;
-	margin-top: 20px;
 	box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.4);
 	padding: 14px;
 
 }
-
+/**
 .card2 {
-	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-	padding: 20px 40px;
-	border-radius: 5px;
-	width: 350px;
-	margin-top: 40px;
-	margin-right: 40px;
-	margin-left: 130px;
-	margin-bottom: 40px;
-	display: inline-block;
-
-
+	width: 100%;
+	height: 300px;
+	display: inline;
 
 }
+**/
+
 .headings {
 	font-size: 1.2vw;
 	color: #455c95;
 	text-align: center;
+
 }
+
 .subHeadings1 {
 	font-size: 100%;
 	color: #455c95;
 	text-align: center;
+
 }
+
 .subHeadings2 {
 	font-size: 100%;
 	color: #200146;
@@ -57,20 +55,25 @@
 .bodyCenter {
 	text-align: left;
 	color: black;
+
 }
+
 p {
 	font-size: 100%;
 	font-family: Open sans, Century gothic;
+
 }
 
 .buttons {
 	text-allgn: center;
 	background-color: #5495ff;
 	margin-left: 120px;
+
 }
 
 .buttons:hover {
 	background-color: #2678ff;
+
 }
 
 .footer {
@@ -87,6 +90,7 @@ p {
 /* My own css */
 
 .resize1 {
-	max-width: 100%;
+	width: 100%;
 	height: auto;
+	
 }
