@@ -141,16 +141,36 @@ p {
 
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a22f9c5f679552614e0de01fcc6d2b3e71353aa0
 .logo {
 	display: flex;
 	float: right;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> a22f9c5f679552614e0de01fcc6d2b3e71353aa0
 
 /* My own css */
 
 .resize1 {
 
 	width: 100%;
+<<<<<<< HEAD
 	height: auto;
 
+=======
+
+	height: auto;
+
+    
+    object-fit: cover;
+
+	height: auto;
+
+
+>>>>>>> a22f9c5f679552614e0de01fcc6d2b3e71353aa0
 }
