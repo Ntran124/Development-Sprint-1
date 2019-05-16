@@ -112,7 +112,7 @@
 }
 
 p {
-	
+
 	font-size: 100%;
 	font-family: Open sans, Century gothic;
 
@@ -141,31 +141,16 @@ p {
 
 }
 
-<<<<<<< HEAD
 .logo {
 	display: flex;
 	float: right;
 }
-=======
-	
->>>>>>> c45e577a9e78420ff7e6307474c291b8905cead9
 
 /* My own css */
 
 .resize1 {
 
 	width: 100%;
-<<<<<<< HEAD
 	height: auto;
 
-=======
-<<<<<<< HEAD
-    
-    object-fit: cover;
-	
-=======
-	height: auto;
-
->>>>>>> f3663df66b8a75dfb19c3a5aa5a29d55a29ba5b9
->>>>>>> c45e577a9e78420ff7e6307474c291b8905cead9
 }
