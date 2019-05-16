@@ -141,6 +141,10 @@ p {
 
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3bbd3322f07fb10428c116611ff112578bddcbde
 .logo {
 	display: flex;
 	float: right;
@@ -152,9 +156,13 @@ p {
 .resize1 {
 
 	width: 100%;
-<<<<<<< HEAD
+
 	height: auto;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3bbd3322f07fb10428c116611ff112578bddcbde
 
 	height: auto;
 
@@ -163,4 +171,8 @@ p {
 
 	height: auto;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3bbd3322f07fb10428c116611ff112578bddcbde
 }
