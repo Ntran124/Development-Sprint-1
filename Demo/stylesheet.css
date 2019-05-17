@@ -16,6 +16,10 @@
 
 }
 
+.card2:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+}
+
 .card3 {
 	width: auto;
 	margin:auto;
@@ -32,6 +36,7 @@
 	border-radius: 5px;
 	margin-bottom: 100px;
 }
+
 .card2{
     display: block;
     text-align: center;
@@ -48,6 +53,7 @@
 	color: #455c95;
 	text-align: center;
 	display: block;
+	font-family: Arial;
 
 }
 
@@ -60,7 +66,11 @@
 
 .subHeadings2 {
 	font-size: 100%;
-	color: #200146;
+  color: #f2f2f2;
+  background-color: #211545;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Arial;
 
 }
 
@@ -77,15 +87,16 @@ p {
 
 }
 
-.buttons {
+.readmore {
 	text-align: center;
-	background-color: #5495ff;
-	margin-left: 120px;
+  background-color: #211545;
+	color: #f2f2f2;
 
 }
 
-.buttons:hover {
-	background-color: #2678ff;
+.readmore:hover {
+  background-color: #dbdbdb;
+	color: black;
 
 }
 
@@ -106,15 +117,11 @@ p {
 	float: right;
 }
 
-.img {
-}
-
 .readmore{
-	font-size: 80%;
+	font-size: 100%;
 	font-family: Open sans, Century gothic;
-	text-align: right;
-	margin-right: 10px;
-	margin-bottom: 20px;
+	color: white;
+	text-decoration: none;
 }
 
 
