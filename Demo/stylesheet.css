@@ -119,7 +119,7 @@ p {
 }
 
 .buttons {
-	text-allgn: center;
+	text-align: center;
 	background-color: #5495ff;
 	margin-left: 120px;
 
@@ -145,6 +145,13 @@ p {
 .logo {
 	display: flex;
 	float: right;
+}
+
+.readmore{
+	font-size: 80%;
+	font-family: Open sans, Century gothic;
+	text-align: right;
+	margin-right: 10px;
 }
 
 
