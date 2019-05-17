@@ -17,45 +17,6 @@
 }
 
 .card3 {
-	display: block;
-	margin: 15px;
-	box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.4);
-	padding: 14px;
-
-}
-
-.card2 {
-	width: 100%;
-	height: 300px;
-	display: inline;
-
-}
-
-
-.card3 {
-	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-	padding: 20px 40px;
-	border-radius: 5px;
-	width: 350px;
-	margin-top: 40px;
-	margin-right: 10px;
-	margin-left: 450px;
-	margin-bottom: 40px;
-	display: inline-block;
-}
-.card2 {
-	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-	padding: 20px 40px;
-	border-radius: 5px;
-	width: 300px;
-	margin-top: 40px;
-	margin-right: 40px;
-	margin-left: 150px;
-	margin-bottom: 40px;
-	display: inline-block;
-}
-
-.card3 {
 	width: auto;
 	margin:auto;
 	text-align: center;
@@ -70,18 +31,16 @@
 	border-style: ridge;
 	border-radius: 5px;
 	margin-bottom: 100px;
-	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 .card2{
     display: block;
     text-align: center;
-    width: 400px;
-    float: left;
+    width: 350px;
     margin: 15px;
     border-style: ridge;
     border-radius: 5px;
     margin-bottom: 100px;
-    box-shadow: 5px 10px #cccccc;
+		box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
     transition: 0.2s linear;
 }
 .headings {
@@ -147,6 +106,9 @@ p {
 	float: right;
 }
 
+.img {
+}
+
 .readmore{
 	font-size: 80%;
 	font-family: Open sans, Century gothic;
@@ -159,19 +121,7 @@ p {
 /* My own css */
 
 .resize1 {
-
 	width: 100%;
-
-	height: auto;
-
-
-
-	height: auto;
-
-
-    object-fit: cover;
-
-	height: auto;
-
-
+	height: 150px;
+  object-fit: cover;
 }
