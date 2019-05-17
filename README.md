@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-## Welcome to GitHub Pages - Edited By Nhut.
 
-=======
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages - Edited By Nhut.
 <h2> helloworld</h2>
->>>>>>> 206231c393b86ff03e154f11ada110ae2932527b
+
+
 You can use the [editor on GitHub](https://github.com/Ntran124/Development-Sprint-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
