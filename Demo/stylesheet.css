@@ -119,7 +119,9 @@ p {
 
 .logo {
 	display: flex;
-	float: right;
+	float: left;
+	height: 150px;
+	margin-bottom: -8px;
 }
 
 .readmore{
