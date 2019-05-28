@@ -49,18 +49,19 @@
 }
 .headings {
 	font-size: 1.2vw;
-	color: #455c95;
+	color: white;
 	text-align: center;
 	display: block;
 	font-family: Arial;
+	background-color: #211545;
 
 }
 
 .subHeadings1 {
-	font-size: 100%;
+	font-size: 1.2vw;
 	color: #455c95;
 	text-align: center;
-
+	font-family: Arial;
 }
 
 .subHeadings2 {
