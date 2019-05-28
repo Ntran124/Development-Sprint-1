@@ -7,7 +7,7 @@
   display: inline-block;
   margin-right: auto;
   font-family: Arial;
-
+  width: 100%;
 }
 
 .main_nav a {
