@@ -159,6 +159,10 @@ p {
 	font-family: Arial;
 }
 
+.mainContent li {
+	padding-bottom: 8px;
+}
+
 /* My own css */
 
 .resize1 {
