@@ -57,7 +57,7 @@
 	margin: 5px 5px 5px 20px;
 	box-shadow: 0 8px 8px 0 rgba(0.3,0.3,0.3,0.3);
 	border-radius: 10px;
-	height: 250px;
+	height: 270px;
 }
 
 .headings {
@@ -152,6 +152,9 @@ p {
 	padding-bottom: 10px;
 
 }
+.mainContent p {
+	margin: 30px;
+}
 
 /* My own css */
 
@@ -170,4 +173,9 @@ p {
 	display: block;
 
 
+}
+.contentImg { 
+	width:100%;
+	height:200px;
+	object-fit:cover;
 }
