@@ -46,15 +46,6 @@
 		padding-bottom: 15px;
 }
 
-.cardContent {
-	display: inline-block;
-	text-align: center;
-	width: 500px;
-	float: left;
-	background-color: #ffffff;
-	margin: 5px 5px 5px 20px;
-	box-shadow: 0 8px 8px 0 rgba(0.3,0.3,0.3,0.3);
-}
 
 .headings {
 	font-size: 28px;
@@ -141,13 +132,6 @@ p {
 	text-decoration: none;
 }
 
-.content {
-	margin-right: 30px;
-	margin-left: 30px;
-	font-size: 20px;
-	color: black;
-}
-
 .mainContent {
 	font-size: 18px;
 	color: black;
@@ -163,4 +147,23 @@ p {
 	height: 150px;
   object-fit: cover;
 	border-radius: 10px 10px 0 0;
+}
+
+/* CSS for main content */
+.content {
+	margin-right: 30px;
+	margin-left: 30px;
+	font-size: 20px;
+	color: black;
+}
+
+.cardContent {
+	display: inline-block;
+	text-align: center;
+	width: 500px;
+	float: left;
+	background-color: #ffffff;
+	margin: 5px 5px 5px 20px;
+	box-shadow: 0 8px 8px 0 rgba(0.3,0.3,0.3,0.3);
+	height: 300px;
 }
