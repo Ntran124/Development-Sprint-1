@@ -43,7 +43,19 @@
     border-radius: 10px 10px 0 0;
 		box-shadow: 0 8px 8px 0 rgba(0.3,0.3,0.3,0.3);
     transition: 0.2s linear;
+		padding-bottom: 15px;
 }
+
+.cardContent {
+	display: inline-block;
+	text-align: center;
+	width: 500px;
+	float: left;
+	background-color: #ffffff;
+	margin: 5px 5px 5px 20px;
+	box-shadow: 0 8px 8px 0 rgba(0.3,0.3,0.3,0.3);
+}
+
 .headings {
 	font-size: 28px;
 	color: white;
@@ -52,6 +64,7 @@
 	background-color: #211545;
 	width: 100%;
 	margin-top: 10px;
+	margin-bottom: 10px;
 
 }
 
@@ -83,7 +96,6 @@ p {
 
 	font-size: 100%;
 	font-family: Open sans, Century gothic;
-
 }
 
 .readmore {
@@ -119,16 +131,30 @@ p {
 	display: flex;
 	float: left;
 	height: 150px;
-	margin-bottom: -8px;
+	margin-top: -39px;
 }
 
-.readmore{
+.readmore {
 	font-size: 100%;
 	font-family: Open sans, Century gothic;
 	color: white;
 	text-decoration: none;
 }
 
+.content {
+	margin-right: 30px;
+	margin-left: 30px;
+	font-size: 20px;
+	color: black;
+}
+
+.mainContent {
+	font-size: 18px;
+	color: black;
+	text-align: left;
+	padding-bottom: 10px;
+
+}
 
 /* My own css */
 
