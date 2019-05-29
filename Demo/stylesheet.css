@@ -1,6 +1,6 @@
 .body{
 	margin: auto;
-	background-color: #fefff0;
+	background-color: #eaeaea;
 
 }
 #headings1 {
@@ -35,17 +35,29 @@
 	float: left;
 	border-radius: 5px;
 	background-color: #ffffff;
+	height: 330px;
 }
 
 .card2 {
     margin: 15px;
-		margin-bottom: 100px;
+	margin-bottom: 100px;
     border-radius: 10px 10px 0 0;
-		box-shadow: 0 8px 8px 0 rgba(0.3,0.3,0.3,0.3);
+	box-shadow: 0 8px 8px 0 rgba(0.3,0.3,0.3,0.3);
     transition: 0.2s linear;
-		padding-bottom: 15px;
+	padding-bottom: 15px;
 }
 
+
+.cardContent {
+	display: inline-block;
+	text-align: center;
+	width: 500px;
+	float: left;
+	background-color: #ffffff;
+	margin: 5px 5px 5px 20px;
+	box-shadow: 0 8px 8px 0 rgba(0.3,0.3,0.3,0.3);
+	border-radius: 10px;
+}
 
 .headings {
 	font-size: 28px;
@@ -149,21 +161,13 @@ p {
 	border-radius: 10px 10px 0 0;
 }
 
-/* CSS for main content */
-.content {
-	margin-right: 30px;
-	margin-left: 30px;
-	font-size: 20px;
-	color: black;
-}
+.container {
+    margin: 15px;
 
-.cardContent {
-	display: inline-block;
-	text-align: center;
-	width: 500px;
-	float: left;
-	background-color: #ffffff;
-	margin: 5px 5px 5px 20px;
-	box-shadow: 0 8px 8px 0 rgba(0.3,0.3,0.3,0.3);
-	height: 300px;
+    transition: 0.2s linear;
+	padding-bottom: 15px;
+	background-color: #eaeaea;
+	display: block;
+
+
 }
