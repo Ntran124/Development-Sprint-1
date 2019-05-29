@@ -10,3 +10,9 @@ function scrollFunction() {
 		backToTopButton.style.display = "none";
 	}
 }
+
+backToTopButton.addEventListener("click", backToTop);
+
+function backToTop() {
+	window.scrollTo(0, 0);
+}
